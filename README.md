@@ -35,6 +35,16 @@ Full-stack React, Node.js, Express, and MongoDB application demonstrating automa
 
 Continuous integration and deployment project demonstrating ESLint, Jest, Playwright E2E testing, Webpack production builds, controlled Render deployments, automated version tagging, deployment notifications, and GitHub Actions workflows.
 
+## Open Source Contributions
+
+### [OWASP Developer Guide — SAST and Semgrep Guidance](https://github.com/OWASP/DevGuide/pull/220)
+
+Contributed documentation on Static Application Security Testing (SAST) and Semgrep Community Edition to the OWASP Developer Guide.
+
+The contribution covers SAST fundamentals, Semgrep Community Edition usage, rules and patterns, taint analysis, workflow integration, limitations, and technical references.
+
+The contribution was accepted and merged into the OWASP Developer Guide through [Pull Request #220](https://github.com/OWASP/DevGuide/pull/220), closing [Issue #88](https://github.com/OWASP/DevGuide/issues/88).
+
 ## Engineering in Public
 
 I build public reference implementations and technical documentation around:
